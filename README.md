@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SurbhiBhide*
-- 🎹 I’m interested in *_Piano, coding and yoga_*.
+- 👋 Hi, I’m *@SurbhiBhide*
+- 🎹 I’m interested in **_Piano, coding and yoga_**.
 - 🎧 I’m currently learning _**Javascript, Python and HTML**_
 - 💞️ I'm currently making an inspration game of Among us.
 - 📫 How to reach me ...
